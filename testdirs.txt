@@ -1,0 +1,13 @@
+vol01
+vol02
+vol04
+vol05
+vol03
+vol03/backupset
+vol03/controlfile
+vol03/archivelog
+vol03/archivelog/archived0
+vol03/archivelog/archived2
+vol03/archivelog/archived4
+vol03/archivelog/archived6
+vol03/archivelog/archived8
